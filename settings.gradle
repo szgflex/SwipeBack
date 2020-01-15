@@ -1,0 +1,4 @@
+include ':app'
+include ':lib_swipe_back'
+
+rootProject.name='SwipeBack'
